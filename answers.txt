@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: Since it's an easy way for us to share code with others in real 
+time. And a lot of companies use it so it's good practice for the real 
+world.
