@@ -17,3 +17,11 @@ Answer: Merging combines the histories of two branches into one with a
 merge commit, and rebasing rewrites the history and appleis the change 
 from one branch to another.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to be able to use python and sql(but mostly python) 
+effectively when it comes to representing data sets graphically and being 
+able to modify them for whatever I need it to do. This is because I am 
+very interesting in the world of sports betting/investing in the market, 
+and to do that, I need to be excellent at using things like Pandas, NumPy, 
+and Matplotlib.
